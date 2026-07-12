@@ -1,5 +1,5 @@
-## Hi I'm
-Computer Science new grad interested in backend development, cloud infrastructure, and AI integrations.
+## Hi
+I'm Computer Science new grad interested in backend development, cloud infrastructure, and AI integrations.
 
 ## Open Source Contributions
 
