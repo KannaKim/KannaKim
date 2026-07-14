@@ -1,5 +1,5 @@
 ## Hi
-I'm Computer Science new grad interested in backend development, cloud infrastructure, and AI integrations. 
+I'm Computer Science new grad interested in backend development, cloud infrastructure, and AI integrations. I love seeing my code making an impact to general public.
 
 ## Open Source Contributions
 * <img src="https://github.com/OpenAPITools.png" width="18" height="18"/> **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** [#24292](https://github.com/OpenAPITools/openapi-generator/pull/24292): Fixed the typescript-fetch generator so required nullable parameters accept null while still rejecting undefined
