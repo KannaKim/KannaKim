@@ -2,6 +2,7 @@
 I'm Computer Science new grad interested in backend development, cloud infrastructure, and AI integrations. I love seeing my code making an impact to general public. 
 
 ## Open Source Contributions
+* <img src="https://github.com/OpenAPITools.png" width="18" height="18"/> **openapi-generator** [#24973](https://github.com/OpenAPITools/openapi-generator/pull/24973): Fixes Java okhttp-gson UUID inner enums by serializing UUIDs as strings and parsing them with UUID.fromString(), replacing unsupported Gson UUID methods and adding regression tests.
 * <img src="https://github.com/OpenAPITools.png" width="18" height="18"/> **openapi-generator** [#24939](https://github.com/OpenAPITools/openapi-generator/pull/24939): Fixes Python Flask generated models by importing UUID whenever UUID types appear, including in nested containers and composed schemas.
 * <img src="https://github.com/OpenAPITools.png" width="18" height="18"/> **openapi-generator** [#24937](https://github.com/OpenAPITools/openapi-generator/pull/24937): Fixes Java inner-enum generation so formatted string values like URI and UUID support case-insensitive comparison without causing compilation errors when useEnumCaseInsensitive=true.
 * <img src="https://github.com/OpenAPITools.png" width="18" height="18"/> **openapi-generator** [#24919](https://github.com/OpenAPITools/openapi-generator/pull/24919): Fixed Java URI enum generation so @XmlEnumValue receives the original OpenAPI value as a properly escaped string while enum constructors keep the Java-specific URI.create(...) expression.
